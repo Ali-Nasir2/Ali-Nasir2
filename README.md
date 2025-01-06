@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via Giphy</a></p>
+  <img src="https:///v1.Y2lkPTc5MGI3NjExNDZna3pyOGU0dGdpZHp0bW8zOW83eGpuMzJtYnRxdmlpdGcwamhvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 <!--
 **Ali-Nasir2/Ali-Nasir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
