@@ -53,16 +53,17 @@ Trying to learn something new and worth learning everyday.
 
 
 
-
 <h2>
   
 ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ali-Nasir2&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Nasir2&show_icons=true&theme=radical&height=200&width=400)
+
 </h2>
 <h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut&height=200&width=900)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </h3>
 
 <!--
