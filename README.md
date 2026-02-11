@@ -22,7 +22,7 @@
 -->
 
 ### :man_technologist: About Me :
-I am a Data Sceintist and Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Data Scientist and Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 Trying to learn something new and worth learning everyday.
 
 - :telescope: Currently I am just studying, learning and making projects, I mean as long as it satisfies me (it doesn't).
