@@ -38,43 +38,26 @@ Trying to learn something new and worth learning everyday.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+<!-- Clean, centered, consistent icons (works better on dark mode) -->
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pandas" alt="python opencv tensorflow pandas" />
+  <br/>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs" alt="react nextjs typescript tailwind nodejs" />
+  <br/>
 
-  <!-- ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow / Keras" alt="TensorFlow / Keras" width="40" height="40"/>&nbsp;
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,mysql,git" alt="js html css c cpp mysql git" />
 
-  <!-- Data / DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-
-  <!-- Existing from your file -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <br/>
 
-<!-- Badges for things that don’t have reliable devicon icons -->
-<div>
+<!-- Badges for the rest (no reliable icons / best as badges) -->
+<div align="center">
   <img src="https://img.shields.io/badge/SheetJS-0C7CD5?style=for-the-badge&logo=javascript&logoColor=white" alt="SheetJS"/>&nbsp;
   <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>&nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>&nbsp;
@@ -82,10 +65,12 @@ Trying to learn something new and worth learning everyday.
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="PowerBI"/>&nbsp;
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"/>&nbsp;
+  <br/><br/>
   <img src="https://img.shields.io/badge/BeautifulSoup4-3B7A57?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4"/>&nbsp;
   <img src="https://img.shields.io/badge/pdfminer.six-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdfminer.six"/>&nbsp;
+  <img src="https://img.shields.io/badge/Backend%20%2F%20Server--Side-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend / server-side"/>&nbsp;
   <img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js API Routes / Route Handlers"/>&nbsp;
-  <img src="https://img.shields.io/badge/Server%20Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Server Actions"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js%20Server%20Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Server Actions"/>&nbsp;
   <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Data cleaning / files / validation"/>
 </div>
 
@@ -93,9 +78,10 @@ Trying to learn something new and worth learning everyday.
 
 ### :fire: My Stats :
 
+<!-- Bigger + centered + transparent background -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Nasir2&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Nasir2&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut&theme=radical&hide_border=true&bg_color=00000000" width="320" alt="Top Languages"/>
 </div>
 
 <!--
