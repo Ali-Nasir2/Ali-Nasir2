@@ -30,65 +30,58 @@ Trying to learn something new and worth learning everyday.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<!-- PYRAMID ICONS (locked rows) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="52" />
+</p>
 
-  <!-- Pyramid (3 / 4 / 5) -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" />
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="52" />
+</p>
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" />
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="52" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="52" />
+</p>
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" />
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" />
-  </div>
-
-  <!-- Extra row -->
-  <br/>
-  <div>
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" height="44" />
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="44" />
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" />
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="44" />
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SheetJS-0C7CD5?style=for-the-badge&logo=javascript&logoColor=white" alt="SheetJS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>&nbsp;
-  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>&nbsp;
-  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts"/>&nbsp;
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="PowerBI"/>&nbsp;
+<!-- BADGES ROWS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SheetJS-0C7CD5?style=for-the-badge&logo=javascript&logoColor=white" alt="SheetJS"/>
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="PowerBI"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/BeautifulSoup4-3B7A57?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4"/>&nbsp;
-  <img src="https://img.shields.io/badge/pdfminer.six-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdfminer.six"/>&nbsp;
-  <img src="https://img.shields.io/badge/Backend%20%2F%20Server--Side-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend / server-side"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js API Routes / Route Handlers"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js%20Server%20Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Server Actions"/>&nbsp;
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Data cleaning / files / validation"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3B7A57?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4"/>
+  <img src="https://img.shields.io/badge/pdfminer.six-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdfminer.six"/>
+  <img src="https://img.shields.io/badge/Backend%20%2F%20Server--Side-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend / server-side"/>
+  <img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js API Routes"/>
+  <img src="https://img.shields.io/badge/Next.js%20Server%20Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Server Actions"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Data cleaning & validation"/>
+</p>
 
 ---
 
