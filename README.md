@@ -1,96 +1,100 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZna3pyOGU0dGdpZHp0bW8zOW83eGpuMzJtYnRxdmlpdGcwamhvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="330"/>
-</div>
+# Olla Amigos 👋 Kesay ho theek ho?
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ali-nasir-a92aaa27a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
 
-<div id="pfview" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Nasir2&style=flat-square&color=blue" alt=""/>
-</div>
+### 🧑‍💻 About Me :
 
-<h1 align="center">
-  Olla Amigos
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Kesay ho theek ho?
-</h1>
-
-### :man_technologist: About Me :
-I am a Data Scientist and Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.  
+I am a Data Scientist and Front-End Developer 🦅 from Pakistan.
 Trying to learn something new and worth learning everyday.
 
-- :telescope: Currently I am just studying, learning and making projects, I mean as long as it satisfies me (it doesn't).
-- :seedling: Exploring Crypto and Cyber Security, not that they are linked in any way, atleast they exist at the same time just like me.
-- :zap: In my free time, I build new projects, and I am not lying, I do do this.
-- :mailbox: How to reach me:
-  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nasir-a92aaa27a)
+- 🔭 Currently I am just studying, learning and making projects, I mean as long as it satisfies me (it doesn't).
+- 🌱 Exploring Crypto and Cyber Security, not that they are linked in any way, atleast they exist at the same time just like me.
+- ⚡ In my free time, I build new projects, and I am not lying, I do do this.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nasir-a92aaa27a)
 
 ---
 
-#### :hammer_and_wrench: Languages and Tools :
+#### 🛠️ Languages and Tools :
 
-<!-- PYRAMID ICONS (locked rows) -->
+<!-- Row 1 - 3 icons (top of pyramid) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
+
+<!-- Row 2 - 4 icons -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+<!-- Row 3 - 5 icons -->
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
+<!-- Row 4 - 6 icons (bottom of pyramid) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="52" />
+  <img src="https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="52" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="52" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" />
-</p>
-
-<br/>
-
-<!-- BADGES ROWS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SheetJS-0C7CD5?style=for-the-badge&logo=javascript&logoColor=white" alt="SheetJS"/>
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="PowerBI"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BeautifulSoup4-3B7A57?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4"/>
-  <img src="https://img.shields.io/badge/pdfminer.six-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdfminer.six"/>
-  <img src="https://img.shields.io/badge/Backend%20%2F%20Server--Side-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend / server-side"/>
-  <img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js API Routes"/>
-  <img src="https://img.shields.io/badge/Next.js%20Server%20Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Server Actions"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-1F2937?style=for-the-badge&logo=databricks&logoColor=white" alt="Data cleaning & validation"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pdfminer.six-red?style=flat-square&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%2FServer--Side-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js_Server_Actions-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning_%26_Validation-FF6B6B?style=flat-square"/>
 </p>
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Nasir2)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Nasir2&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ali-Nasir2 GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
-<!--
-**Ali-Nasir2/Ali-Nasir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ali-Nasir2&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
