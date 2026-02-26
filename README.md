@@ -34,19 +34,42 @@ Trying to learn something new and worth learning everyday.
 
 <div align="center">
 
-  <!-- Main icon grid -->
-  <img src="https://skillicons.dev/icons?i=python,opencv,pandas,tensorflow" alt="python opencv pandas tensorflow" />
+  <!-- Pyramid (3 / 4 / 5) -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" />
+  </div>
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" />
+  </div>
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" />
+  </div>
+
+  <!-- Extra row -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs" alt="react nextjs typescript tailwind nodejs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,mysql,git" alt="js html css c cpp mysql git" />
+  <div>
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" height="44" />
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="44" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="44" />
+  </div>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Badges for tools without clean icons -->
   <img src="https://img.shields.io/badge/SheetJS-0C7CD5?style=for-the-badge&logo=javascript&logoColor=white" alt="SheetJS"/>&nbsp;
   <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>&nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>&nbsp;
@@ -71,19 +94,10 @@ Trying to learn something new and worth learning everyday.
 
 ### :fire: My Stats :
 
-<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Nasir2)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- GitHub Stats (use &cache_seconds and &v to reduce random "can't fetch") -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ali-Nasir2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
-    width="420"
-    alt="GitHub Stats"
-  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nasir2&layout=donut&theme=radical&hide_border=true&cache_seconds=21600"
-    width="320"
-    alt="Top Languages"
-  />
-
-</div>
+<!--
+**Ali-Nasir2/Ali-Nasir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
